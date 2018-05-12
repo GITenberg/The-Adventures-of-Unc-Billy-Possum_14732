@@ -24,6 +24,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Thornton_Burgess
 description: Unc' Billy Possum has adventures with Peter Rabbit and the other animals
   of the Green Meadows.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14732#The-Adventures-of-Unc-Billy-Possum
 gutenberg_bookshelf:
 - Children's Literature
 - Children's Book Series
