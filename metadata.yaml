@@ -1,0 +1,43 @@
+_repo: The-Adventures-of-Unc-Billy-Possum_14732
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cady, Harrison
+    aliases:
+    - Cady, W. Harrison (Walter Harrison)
+    - Cady, Walter Harrison
+    birthdate: 1877
+    deathdate: 1970
+    gutenberg_agent_id: '8456'
+    url: http://www.gutenberg.org/2009/agents/8456
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burgess, Thornton W. (Thornton Waldo)
+    alias: Burgess, Thornton Waldo
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '717'
+    url: http://www.gutenberg.org/2009/agents/717
+    wikipedia: http://en.wikipedia.org/wiki/Thornton_Burgess
+description: Unc' Billy Possum has adventures with Peter Rabbit and the other animals
+  of the Green Meadows.
+gutenberg_bookshelf:
+- Children's Literature
+- Children's Book Series
+gutenberg_issued: '2005-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14732'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Opossums -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Animals -- Juvenile fiction'
+title: The Adventures of Unc' Billy Possum
+url: http://www.gutenberg.org/ebooks/14732
